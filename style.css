@@ -24,3 +24,7 @@ canvas{
 div{
     margin: 5% 35%;
 }
+myObstacle {
+    border-radius: 50%;
+        color: green;
+}
